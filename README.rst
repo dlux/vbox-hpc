@@ -1,7 +1,11 @@
+
 HPC Cluster - OpenHPC
 =====================
 
-[![Build Status](https://api.travis-ci.org/dlux/vbox-hpc.svg?branch=master "Build Status @ Travis ")](https://travis-ci.org/dlux/vbox-hpc)
+.. image:: https://api.travis-ci.org/dlux/vbox-hpc.svg?branch=master"
+   :alt: Build Status @ Travis
+   :target: https://travis-ci.org/dlux/vbox-hpc
+
 
 Configuration
 -------------
