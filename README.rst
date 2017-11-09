@@ -18,4 +18,8 @@ Head Node
 
 1 Compute Node
 
--- TODO: remove vagrant file which provisions the HN, substitute it with a regular script using vbox.
+-- TODO:
+- Stabilize HN - OS provision unatended
+- Install HN software - stabilize and fix postinstall
+- Create compute nodes vbox
+- Make sure compute nodes were provisioned from HN

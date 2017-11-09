@@ -2,5 +2,4 @@
 
 set -o xtrace
 
-./removeHN.sh
-./removeCN.sh
+# Call postinstall
