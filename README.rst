@@ -2,9 +2,9 @@
 HPC Cluster - OpenHPC
 =====================
 
-.. image:: https://api.travis-ci.org/dlux/vbox-hpc.svg?branch=master
+.. image:: https://api.travis-ci.com/dlux/vbox-hpc.svg?branch=master
    :alt: Build Status @ Travis
-   :target: https://travis-ci.org/dlux/vbox-hpc
+   :target: https://travis-ci.com/dlux/vbox-hpc
 
 
 Configuration
